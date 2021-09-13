@@ -10,6 +10,7 @@ namespace Zhebratkin
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello KNUTE!");
         }
     }
 }
